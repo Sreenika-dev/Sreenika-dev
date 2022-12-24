@@ -1,5 +1,7 @@
 
 
+<!--![Hi, there](https://user-images.githubusercontent.com/119485192/209433645-7c5f17ab-a428-4335-a713-b13393f74c5d.png)-->
+<img src = "https://user-images.githubusercontent.com/119485192/209433645-7c5f17ab-a428-4335-a713-b13393f74c5d.png" width = 600 height = 300>
 
 <h1 align="center">Hi 👋, I'm Sreenika</h1>
 <h3 align="center">A passionate Software developer from India</h3>
