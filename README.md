@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Sreenika</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt = "Profile desc" width = 300  align = "right" />
-- 🌱 I’m currently learning **Python Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Python and Web development projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Python & Web development**
+- 💬 Ask me about **Web development & System Design**
 
 - 📫 How to reach me **sreenikamyakala@gmail.com**
 
