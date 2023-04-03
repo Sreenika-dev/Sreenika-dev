@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sreenika</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Software Developer</h3>
 <img src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt = "Profile desc" width = 300  align = "right" />
 - 🌱 I’m currently learning **MERN Stack**
 
